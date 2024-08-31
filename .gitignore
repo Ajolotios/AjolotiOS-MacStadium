@@ -1,0 +1,10 @@
+#
+# Environment file used with StartRunnersFile
+#
+.env
+
+#
+# Dir generated during script excecution
+#
+downloads/*
+runners/*
