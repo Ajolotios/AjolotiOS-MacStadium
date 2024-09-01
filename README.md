@@ -1,4 +1,4 @@
-# AjolotiOS-MacStadium
+# AjolotiOS-MacStadium 1.0.0
 
 ## Description
 
